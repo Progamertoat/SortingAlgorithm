@@ -1,6 +1,7 @@
+import Sort.SelectionSort;
+import Sort.Sort;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.assertj.core.api.Assertions;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

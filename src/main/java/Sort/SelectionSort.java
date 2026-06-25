@@ -1,4 +1,4 @@
-import java.util.Comparator;
+package Sort;
 
 public class  SelectionSort <T extends Comparable> implements Sort<T>{
     @Override

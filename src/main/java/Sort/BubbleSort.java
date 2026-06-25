@@ -1,3 +1,5 @@
+package Sort;
+
 public class BubbleSort  <T extends Comparable> implements Sort<T>{
     @Override
     public T[] sort(T[] original) {
